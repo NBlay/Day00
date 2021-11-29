@@ -1,1 +1,1 @@
-# IB_PiscineJS
+# PiscineJS
