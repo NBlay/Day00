@@ -8,7 +8,7 @@ function firstNonRepeatedCharacter(string) {
             return final;
         }
     }
-    return null;
+    return -1;
 }
 
 console.log(firstNonRepeatedCharacter(string));
